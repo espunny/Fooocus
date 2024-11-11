@@ -36,7 +36,7 @@
     "default_performance": "Speed",
     "default_prompt": "",
     "default_prompt_negative": "unrealistic, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature, label",
-    "default_aspect_ratio": "832x1216",
+    "default_aspect_ratio": "832*1216",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "bigaspv2.safetensors": "https://huggingface.co/silveroxides/big-asp-v2/blob/main/bigaspv2.safetensors"
