@@ -39,7 +39,7 @@
     "default_aspect_ratio": "832*1216",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "bigaspv2.safetensors": "https://huggingface.co/silveroxides/big-asp-v2/blob/main/bigaspv2.safetensors"
+        "bigaspv2.safetensors": "https://huggingface.co/silveroxides/big-asp-v2/resolve/main/bigaspv2.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
