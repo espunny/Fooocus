@@ -34,7 +34,7 @@
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "",
+    "default_prompt": "A photograph of a cute puppy running through a field of flowers with the sun shining brightly in the background. Captured with depth of field to enhance the focus on the subject.",
     "default_prompt_negative": "unrealistic, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature, label",
     "default_aspect_ratio": "832*1216",
     "default_overwrite_step": -1,
